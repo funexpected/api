@@ -2,19 +2,19 @@
 	"version": "1.0.3",
 	"required_version": "1.0.0",
 	"version_history": [{
-		"version": "1.0.4",
+		"version": "1.0.1",
 		"desc": {
 			"en": "Add fish mini game to the Japan",
 			"ru": "описание1"
 		}
 	}, {
-		"version": "1.0.5",
+		"version": "1.0.2",
 		"desc": {
 			"en": "Add ninja mini game and optimization",
 			"ru": "описание2"
 		}
 	}, {
-		"version": "1.0.6",
+		"version": "1.0.3",
 		"desc": {
 			"en": "Add ninja mini game and optimization",
 			"ru": "описание3"
