@@ -1,22 +1,22 @@
 {
 	"version": "1.0.3",
-	"required_version": "1.0.2",
+	"required_version": "1.0.0",
 	"version_history": [{
-		"version": "1.0.1",
+		"version": "1.0.4",
 		"desc": {
-			"en": "description1",
+			"en": "Add "fish" mini game to the Japan",
 			"ru": "описание1"
 		}
 	}, {
-		"version": "1.0.2",
+		"version": "1.0.5",
 		"desc": {
-			"en": "description2",
+			"en": "Add ninja mini game and optimization",
 			"ru": "описание2"
 		}
 	}, {
-		"version": "1.0.3",
+		"version": "1.0.6",
 		"desc": {
-			"en": "description3",
+			"en": "Add ninja mini game and optimization",
 			"ru": "описание3"
 		}
 	}]
