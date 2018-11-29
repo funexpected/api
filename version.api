@@ -1,10 +1,10 @@
 {
-	"version": "11.01.02",
+	"version": "1.0.2",
 	"version_history": [{
-		"version": "7.0.0",
+		"version": "1.0.0",
 		"desc": "Description1"
 	}, {
-		"version": "6.0.1",
+		"version": "1.0.1",
 		"desc": "Description2"
 	}]
 }
