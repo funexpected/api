@@ -1,10 +1,16 @@
 {
 	"version": "1.0.1",
 	"version_history": [{
-		"version": "1.0.0",
-		"desc": "Description1"
-	}, {
 		"version": "1.0.1",
-		"desc": "Description2"
+		"desc": {
+			"en": "description1",
+			"ru": "описание1"
+		}
+	}, {
+		"version": "1.0.2",
+		"desc": {
+			"en": "description2",
+			"ru": "описание2"
+		}
 	}]
 }
