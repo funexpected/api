@@ -5,19 +5,25 @@
 		"version": "1.0.1",
 		"desc": {
 			"en": "A fish minigame to japan was added!!",
-			"ru": "описание1"
+			"ru": "Добавлена игра Рыбы"
 		}
 	}, {
 		"version": "1.0.2",
 		"desc": {
 			"en": "A Ninja minigame to japan was added with common optimization",
-			"ru": "описание2"
+			"ru": "Добавлена игра Ниндзя"
 		}
 	}, {
 		"version": "1.0.3",
 		"desc": {
 			"en": "A Ninja minigame to japan was added with common optimization",
-			"ru": "описание3"
+			"ru": "Добавлена игра Ниндзя"
+		}
+	}, {
+		"version": "1.0.4",
+		"desc": {
+			"en": "Egypt world was added",
+			"ru": "Мир Египта был добавлен"
 		}
 	}]
 }
