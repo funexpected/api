@@ -1,6 +1,10 @@
 {
 	"version": "1.0.4",
 	"required_version": "1.0.0",
+	"version_required":[
+		"1.0.1",
+		"1.0.2"
+	],
 	"version_history": [{
 		"version": "1.0.1",
 		"desc": {
