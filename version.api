@@ -7,20 +7,14 @@
 	"version_history": [{
 		"version": "1.0.1",
 		"desc": {
-			"en": "A fish minigame to japan was added!!",
-			"ru": "описание1"
+			"en": "New game in Egypt is now open",
+			"ru": "New game in Egypt is now open"
 		}
 	}, {
 		"version": "1.0.2",
 		"desc": {
-			"en": "A Ninja minigame to japan was added with common optimization",
-			"ru": "описание2"
-		}
-	}, {
-		"version": "1.0.3",
-		"desc": {
-			"en": "A Ninja minigame to japan was added with common optimization",
-			"ru": "описание3"
+			"en": "Russian language is available",
+			"ru": "Russian language is available"
 		}
 	}]
 }
