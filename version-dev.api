@@ -1,10 +1,16 @@
 {
-	"version": "3.1.5",
+	"version": "3.2.2",
 	"required_version": "1.0.0",
 	"version_required":[
 		"1.0.0"
 	],
 	"version_history": [{
+		"version": "3.2.2",
+		"desc": {
+			"en": "Discover new game in Egypt on patterns recognition!",
+			"ru": "В Египте вышла новая игра про поиск закономерностей!"
+		}
+	},{
 		"version": "3.1.5",
 		"desc": {
 			"en": "Game statistics is now available!",
