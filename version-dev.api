@@ -31,6 +31,10 @@
 		}
 	},{
 		"version": "3.3.0",
+		"desc": {
+			"en": "Discover new game in Egypt on counting!",
+			"ru": "В Египте вышла новая игра про счёт!"
+		},
 		"game": {
 			"token": "egypt/snake",
 			"en": {
