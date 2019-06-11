@@ -38,12 +38,12 @@
 		"game": {
 			"token": "egypt/snakes",
 			"en": {
-				"title": "New game in Egypt!",
+				"title": "Discover new game on skip counting!",
 				"subtitle": "Give it a try"
 			},
 			"ru": {
-			        "title": "Новая игра в Египте!",
-				"subtitle": "Попробуй"
+			        "title": "Попробуй новую игру про счёт!",
+				"subtitle": "Попробуй сейчас"
 			}
 		}
 	}]
