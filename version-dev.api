@@ -36,7 +36,7 @@
 			"ru": "В Египте вышла новая игра про счёт!"
 		},
 		"game": {
-			"token": "egypt/snake",
+			"token": "egypt/snakes",
 			"en": {
 				"title": "New game in Egypt!",
 				"subtitle": "Give it a try"
