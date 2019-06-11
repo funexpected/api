@@ -1,5 +1,5 @@
 {
-	"version": "3.2.2",
+	"version": "3.3.0",
 	"required_version": "1.0.0",
 	"version_required":[
 		"1.0.0"
@@ -31,9 +31,16 @@
 		}
 	},{
 		"version": "3.3.0",
-		"desc": {
-			"en": "Discover new game in Egypt on patterns recognition!",
-			"ru": "В Египте вышла новая игра про поиск закономерностей!"
+		"game": {
+			"token": "egypt/snake",
+			"en": {
+				"title": "New game in Egypt!",
+				"subtitle": "Give it a try"
+			},
+			"ru": {
+			        "title": "Новая игра в Египте!",
+				"subtitle": "Попробуй"
+			}
 		}
 	}]
 }
