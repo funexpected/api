@@ -1,5 +1,5 @@
 {
-	"version": "3.2.2",
+	"version": "3.3.0",
 	"required_version": "1.0.0",
 	"version_required":[
 		"1.0.0"
@@ -28,6 +28,23 @@
 		"desc": {
 			"en": "Discover new game in Egypt on patterns recognition!",
 			"ru": "В Египте вышла новая игра про поиск закономерностей!"
+		}
+	},{
+		"version": "3.3.0",
+		"desc": {
+			"en": "Discover new game in Egypt on counting!",
+			"ru": "В Египте вышла новая игра про счёт!"
+		},
+		"game": {
+			"token": "egypt/snakes",
+			"en": {
+				"title": "Discover new game on skip counting!",
+				"subtitle": "Give it a try"
+			},
+			"ru": {
+			        "title": "Попробуй новую игру про счёт!",
+				"subtitle": "Попробуй сейчас"
+			}
 		}
 	}]
 }
