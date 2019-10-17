@@ -50,14 +50,22 @@
 		"version": "3.14.14",
 		"game": {
 			"token": "egypt/scarab",
-			"en": {
-				"title": "Discover new game on skip counting!",
-				"subtitle": "Give it a try"
-			},
-			"ru": {
-			        "title": "Попробуй новую игру про счёт!",
-				"subtitle": "Попробуй сейчас"
-			}
+			"en": { "title": "New game in Egypt!", "subtitle": "" },
+			"zh_Hans": { "title": "有新的游戏喔！", "subtitle": "" },
+			"zh_Hant": { "title": "有新的遊戲喔！", "subtitle": "" },
+			"zh_HK": { "title": "有新的遊戲喔！", "subtitle": "" },
+			"nl-nl": { "title": "Nieuw spel in Egypte!", "subtitle": "" },
+			"fr": { "title": "Nouveau jeu à Egypte!", "subtitle": "" },
+			"de": { "title": "Neues Spiel in Ägypten!", "subtitle": "" },
+			"it": { "title": "Nuovo gioco in Egitto!", "subtitle": "" },
+			"ja": { "title": "エジプトの新しいゲーム！", "subtitle": "" },
+			"ko": { "title": "이집트 에서의 새로운 게임!", "subtitle": "" },
+			"pl": { "title": "Nowa gra w Egipcie!", "subtitle": "" },
+			"pt-BR": { "title": "Egito - Novo jogo!", "subtitle": "" },
+			"ru": { "title": "В Египте новая игра!", "subtitle": "" },
+			"es": { "title": "¡Nuevo juego en Egipto!", "subtitle": "" },
+			"sw": { "title": "Nytt spel i Egypten!", "subtitle": "" },
+			"tr": { "title": "Mısır'da yeni oyun!", "subtitle": "" }
 		}
 	}]
 }
