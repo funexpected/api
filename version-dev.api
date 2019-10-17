@@ -46,5 +46,18 @@
 				"subtitle": "Попробуй сейчас"
 			}
 		}
+	},{
+		"version": "3.14.14",
+		"game": {
+			"token": "egypt/snakes",
+			"en": {
+				"title": "Discover new game on skip counting!",
+				"subtitle": "Give it a try"
+			},
+			"ru": {
+			        "title": "Попробуй новую игру про счёт!",
+				"subtitle": "Попробуй сейчас"
+			}
+		}
 	}]
 }
